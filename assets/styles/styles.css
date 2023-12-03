@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assets/images/back.jpg);
+    background-image: url(../assets/images/back.jpg);
 }
 /* Add a black background color to the top navigation */
 .topnav {
